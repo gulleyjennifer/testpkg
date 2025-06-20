@@ -1,4 +1,4 @@
-url: ~
+url: file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html
 template:
   bootstrap: 5
-
+  light-switch: true
