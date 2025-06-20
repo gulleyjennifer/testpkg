@@ -1,8 +1,8 @@
 <urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
-<url><loc>/404.html</loc></url>
-<url><loc>/authors.html</loc></url>
-<url><loc>/index.html</loc></url>
-<url><loc>/reference/hello.html</loc></url>
-<url><loc>/reference/index.html</loc></url>
+<url><loc>file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html/404.html</loc></url>
+<url><loc>file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html/authors.html</loc></url>
+<url><loc>file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html/index.html</loc></url>
+<url><loc>file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html/reference/hello.html</loc></url>
+<url><loc>file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html/reference/index.html</loc></url>
 </urlset>
 

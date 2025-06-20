@@ -2,4 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.3
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-06-20T23:03Z
+last_built: 2025-06-20T23:16Z
+urls:
+  reference: file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html/reference
+  article: file:///Users/jengulley/Documents/CascadiaR/Github_workshop/testpkg/docs/index.html/articles
